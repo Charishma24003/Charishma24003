@@ -22,10 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   31 mins         ██████████████████████▒░░   89.85 %
-Git Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
