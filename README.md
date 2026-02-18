@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   8 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.63 %
-PHP              8 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   37.43 %
-TypeScript       3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Bash             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Git Config       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+PHP              8 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
+Blade Template   7 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.68 %
+TypeScript       3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Git Config       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
