@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   42 mins               ███████████████████████░░   92.05 %
-SQL          3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JavaScript   42 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
